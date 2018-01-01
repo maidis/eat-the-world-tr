@@ -7,6 +7,8 @@ Okumaya başla
 
 ![Dino](https://github.com/maidis/eat-the-world-tr/raw/master/dino.jpg "Dino")
 
+Asıl çalışma: [Eat the World](http://eattheworldbook.com/)
+
 Yazar: [Dawid Andrzejewski](https://medium.com/@kemyd)
 
 Rusça çeviri: [devSchacht/Eat-the-World](https://github.com/devSchacht/Eat-the-World)
