@@ -221,3 +221,65 @@ Günümüzde, iyi gelişmiş programlama ortamları bu ayracın eksikliğini kol
 İnternette, diğer programlama sorunlarını çözmenize yardımcı olacak çok sayıda kaynak vardır. En popülerlerinden biri [Stack Overflow](http://stackoverflow.com/) sitesidir. Doom ve Quake gibi oyunların yaratıcısı John Carmack, bu web sitesinin geliştiricilerin verimliliğini artırarak milyarlarca dolar tasarruf sağladığını düşünüyor[5].
 
 [5] https://twitter.com/id_aa_carmack/status/380018564792455168
+
+### Açıklama 11. Yapılmış olması mükemmel olmasından iyidir
+
+> Domuz ve tavuk yolda yürüyormuş.
+> 
+> Tavuk şöyle demiş: "Hey domuz, bence bir restoran açmalıyız!"
+> 
+> Domuz cevap verir: "Hım, olur belki, ne isim vereceğiz?"
+> 
+> Tavuk yanıtlar: "Beykın ve Yumurta’ya ne dersin?"
+> 
+> Domuz bir an düşünür ve "Hayır, sağol. Ben kendimi adamış olurum, ancak sen sadece işe karışmış olursun" der.
+
+Bu fabl, scrum uygulama geliştirme yöntemindeki iki tip proje üyesini tanımlamaya yöneliktir: projeye tamamen bağlı olan ve projenin sonuçlarından mesul olan domuzlar ve projede danışılacak ve projenin gelişimi hakkında bilgilendirilecek olan tavuklar. Bu benzetme, pastırma sağlayabilecek domuz (sunulması için domuzun ölmesinin gerektiği fedakar bir bağış) ile yumurta sağlayacak tavuğun (kurban olunmayan) karşılaştırılmasına dayalıdır.
+
+Bir scrum projesi için, ürün sahibi, scrum yöneticisi ve geliştirme ekibi, projeye adamış insanlar olarak kabul edilirken müşteriler ve üst düzey yöneticilerse projeye dahil ancak projeye bağlı olmayan kişiler olarak görülür[6].
+
+[6] https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig
+
+### Açıklama 12. Kitlelerin Bilgeliği*
+
+> Sarışın, sarhoş ve uzaylı bir bara gider, ancak bu bir Microsoft barıdır ve bu yüzden kapalıdır.
+
+1990'lı yıllarda ve 2000'lerin başında, Microsoft kapalı bir şirketti ve sırlarını kesinlikle koruyordu. Microsoft ve büyük şirketlerin aksine, kodları açık kaynak olarak sunulan projeler geliştirildi.
+
+Şu anda bu değişiyor ve Microsoft, açık kaynak projelerde de yoğun şekilde yer alıyor. Bu, şirkete benzersiz avantajlar sağlar, çünkü çalışanlara ek olarak, gönüllüler yazılım geliştirmede yer alabilir. Bu, hata bulma, yeni işlevsellik ekleme ve yeni sürümleri yayımlama süreçlerini hızlandırır.
+
+\* çevirmenin notu: başlık, asıl ismi The Wisdom of Crowds olan bir James Surowiecki kitabından geliyor.
+
+### Açıklama 13. Kaybettiğim her şey içinde aklımı özlüyorum en çok
+
+> İnsanlar iki gruba ayrılabilir: yedekleme yapan ve yapacak olanlar.
+
+Yedekleme, örneğin bir arızadan sonra yazılımı geri yüklemek için kullanılabilen bir veri kopyasıdır. Yedekleme oluşturmak çok iyi bir uygulamadır.
+
+2017'deki ciddi bir olay, GitLab'daki veri kaybıydı. Yedekleme oluşturulmasına rağmen, yedeklerin iyi test edilmediği ve bazı verilerin geri yüklenemediği ortaya çıktı[7].
+
+Yedeklemeler oluşturun ve mümkün olduğunca sık bir şekilde bunlardan veri kurtarıp kurtaramadığınızı kontrol edin.
+
+[7] https://about.gitlab.com/2017/02/01/gitlab-dot-com-database-incident/
+
+## BÖLÜM III. Bilgisayarların çalışmasıyla ilgili nüktelerin açıklaması
+
+> Bilgisayarlar işe yaramaz. Sana sadece cevaplar verebilirler.
+>
+> \- Pablo Picasso
+
+### Açıklama 1. Bilgisayarlarla gerçekte nasıl konuşuruz
+
+> Dünyada sadece 10 tür insan vardır: ikilikten anlayan ve anlamayan kişiler.
+
+İkilik sayı, bit denilen öğelerden oluşur ve bunlar, iki durumdan birini (0 veya 1) alabilir. İkilik sayı 10, ondalık olarak 2'dir ve bu nedenle, yukarıdaki şakada iki tür insandan bahsedilmektedir.
+
+İkilik sayılar ondalık sayılara aşağıdaki gibi dönüştürülür:
+
+* **10**: 1*(2^1) + 0*(2^0) = 2
+* **1001**: 1*2^3 + 0*2^2 + 0*2^1 + 1*2^0 = 9
+* **1101**: 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0 = 13
+
+Bilgisayarlarda ikilik kod kullanımı çok etkilidir. Durum 0 (bit kapalı) ve 1 (açık), düşük ve yüksek gerilimle gösterilebilir.
+
+
