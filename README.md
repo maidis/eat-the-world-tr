@@ -29,7 +29,7 @@ Türkçe çeviri: [maidis/eat-the-world-tr](https://github.com/maidis/eat-the-wo
 
 Donanımların bakımı ve yapılandırması servis teknisyenleri veya BT uzmanları tarafından gerçekleştirilirken, programcılar yazılım oluşturmayla ilgilenirler.
 
-\*çevirmenin notu: Farklı meslekler için kaç kişi gerekiyor esprilerini görmek için bir [Google araması](https://www.google.com.tr/search?q=ampülü+değiştirmek+için+kaç) yapabilirsiniz.
+\* çevirmenin notu: Farklı meslekler için kaç kişi gerekiyor esprilerini görmek için bir [Google araması](https://www.google.com.tr/search?q=ampülü+değiştirmek+için+kaç) yapabilirsiniz.
 
 ### Açıklama 2. Doğru ürünü nakletmek
 
@@ -290,5 +290,5 @@ Bunu mu demek istediniz? özyineleme
 
 Google'da "özyineleme" kelimesini ararsanız Google size aynı sözcüğü ifade edip etmediğinizi sorup duracaktır... Bu bir hata değil, kendisini çağıran bir fonksiyonu tanımlayan özyineleme fikrini gösteren Google programcıları şakasıdır.
 
-* çevirmenin notu: Başlığın aslı not every boat has a lifeboat ve Edsger W. Dijkstra'nın oğlunun özyinelemeyi nasıl anladığıyla ilgili [hikayede](https://stackoverflow.com/questions/46612470/could-i-ask-for-physical-analogies-or-metaphors-for-recursion/46882956#46882956) geçiyor: "Birkaç yıl sonra, beş yaşındaki oğlum bana, özyineleme fikrinin bozulmamış zihne ne kadar sorunsuz girdiğini gösterecekti. Kasabanın ortasında benimle birlikte yürürken bana birdenbire şunu söyledi: Baba, her teknede bir cankurtaran teknesi yoktur, değil mi? Bu fikre nereden kapıldın dedim. Baba cankurtaran teknesinin daha küçük bir cankurtaran teknesinin olması mümkündür, ancak o zaman da bu cankurtaransız tekne olurdu."
+\* çevirmenin notu: Başlığın aslı not every boat has a lifeboat ve Edsger W. Dijkstra'nın oğlunun özyinelemeyi nasıl anladığıyla ilgili [hikayede](https://stackoverflow.com/questions/46612470/could-i-ask-for-physical-analogies-or-metaphors-for-recursion/46882956#46882956) geçiyor: "Birkaç yıl sonra, beş yaşındaki oğlum bana, özyineleme fikrinin bozulmamış zihne ne kadar sorunsuz girdiğini gösterecekti. Kasabanın ortasında benimle birlikte yürürken bana birdenbire şunu söyledi: Baba, her teknede bir cankurtaran teknesi yoktur, değil mi? Bu fikre nereden kapıldın dedim. Baba cankurtaran teknesinin daha küçük bir cankurtaran teknesinin olması mümkündür, ancak o zaman da bu cankurtaransız tekne olurdu."
 
