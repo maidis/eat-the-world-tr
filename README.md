@@ -284,4 +284,11 @@ Yedeklemeler oluşturun ve mümkün olduğunca sık bir şekilde bunlardan veri 
 
 Bilgisayarlarda ikilik kod kullanımı çok etkilidir. Durum 0 (bit kapalı) ve 1 (açık), düşük ve yüksek gerilimle gösterilebilir.
 
+### Açıklama 5. Her teknede bir cankurtaran teknesi bulunmaz*
+
+Bunu mu demek istediniz? özyineleme
+
+Google'da "özyineleme" kelimesini ararsanız Google size aynı sözcüğü ifade edip etmediğinizi sorup duracaktır... Bu bir hata değil, kendisini çağıran bir fonksiyonu tanımlayan özyineleme fikrini gösteren Google programcıları şakasıdır.
+
+* çevirmenin notu: Başlığın aslı not every boat has a lifeboat ve Edsger W. Dijkstra'nın oğlunun özyinelemeyi nasıl anladığıyla ilgili [hikayede](https://stackoverflow.com/questions/46612470/could-i-ask-for-physical-analogies-or-metaphors-for-recursion/46882956#46882956) geçiyor: "Birkaç yıl sonra, beş yaşındaki oğlum bana, özyineleme fikrinin bozulmamış zihne ne kadar sorunsuz girdiğini gösterecekti. Kasabanın ortasında benimle birlikte yürürken bana birdenbire şunu söyledi: Baba, her teknede bir cankurtaran teknesi yoktur, değil mi? Bu fikre nereden kapıldın dedim. Baba cankurtaran teknesinin daha küçük bir cankurtaran teknesinin olması mümkündür, ancak o zaman da bu cankurtaransız tekne olurdu."
 
