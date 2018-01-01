@@ -130,6 +130,94 @@ Windows XP sisteminde bulunan 3B tilt oyunu, düşük kod kalitesi ve belge eksi
 
 [2] https://blogs.msdn.microsoft.com/oldnewthing/20121218-00/?p=5803
 
+### Açıklama 4. Sayıları sıralamadan düşünen makinelere
 
+algoritma
 
+> Programcıların yaptıklarını açıklamak istemediklerinde kullandıkları kelime.
 
+Algoritmalar, doğru sırada izlenmesi gereken kesin talimatlardır. Doğru uygulanan algoritmanın sonucu daima aynıdır.
+
+İlk başta alıştırma yapmaya değer popüler algoritmalar, verileri sıralamak ve bulmak için kullanılanlardır.
+
+Algoritma bilgisi her yerde kullanışlıdır.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=k4RRi_ntQc8
+" target="_blank"><img src="http://img.youtube.com/vi/k4RRi_ntQc8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+### Açıklama 5. Mantık sizi A'dan B'ye götürür
+
+> Bir kadın, programcı olan kocasını eline talimatlarını vererek markete gönderir
+>
+> "Bir ekmek al ve yumurta varsa bir düzine olsun".
+>
+> Adam bir düzine ekmekle gelir ve “Yumurtaları vardı.” der.
+
+Yukarıda bahsedilen şakadaki anahtar sözcük "if [...]" olup, hemen hemen her programlama dili için temel kontrol talimatıdır.
+
+Bu talimatları kullanan çay yapma algoritmasına bir örnek[3]:
+
+1. Su ısıtıcı su içermiyorsa, su ısıtıcısını doldurun
+2. Su ısıtıcısının fişini prize takın ve çalıştırın.
+3. Çaydanlık boş değilse çaydanlığı boşaltın.
+4. Çay yapraklarını çaydanlığa koyun.
+5. Su ısıtıcısındaki su kaynar değilse adım 5'e gidin.
+6. Su ısıtıcısını kapatın.
+7. Su ısıtıcısından çaydanlığa su dökün.
+
+[3] http://users.evtek.fi/~jaanah/IntroC/DBeech/3gl_algorithm1.htm
+
+### Açıklama 6. Biri sizinle aynı sorunu yaşadı
+
+> Chuck Norris her zaman kendi tasarım desenlerini kullanır ve en sevdiği döner tekmedir.
+
+Tasarım desenleri, tipik sorunları çözmenin kanıtlanmış yollarıdır. Bunlar, projeye yapıştırılabilecek hazır kod parçaları değil, sorunun nasıl çözülmesi gerektiğini gösteren açıklamalar veya şablonlardır.
+
+Algoritma, takip edilecek bir talimatlar dizisiyken tasarım desenleri, bileşenler arasındaki ilişkiyi açıkça göstermek için kodun nasıl yapılandırılacağını açıklar. Bu yönüyle tasarım desenleri algoritmalardan ayrılır.
+
+### Açıklama 7. Sinemaya yalnız gidecekseniz iki bilet satın almazsınız
+
+> İyimser biri bardağın yarım dolu olduğunu söyleyecektir; karamsar biri, yarısı boş diyecektir; ve mühendis sana bardağın olması gerektiğinden iki kat büyük olduğunu söyleyecektir.
+
+Yazılım yazarken çalıştırılacağı aygıtları ve sınırlamalarını (işlemci özellikleri, mevcut bellek) dikkate alırsınız.
+
+Günümüzde, bilgisayarlarda bulunan bellekler ucuz ve işlemciler birkaç yıl önce yapılmış olanlardan çok daha verimlidir ancak yazılımlar da genellikle daha karmaşıktır.
+
+1991 yılında bir iPhone inşa etmenin yaklaşık 3,5 milyon dolar maliyete sahip olacağı ve mevcut belleğin 1,44 milyon dolara mal olacağı hesaplandı![4]
+
+[4] http://www.businessinsider.com/iphone-35-million-1991-2014-2?IR=T
+
+### Açıklama 8. Neredeyse her zaman ekip çalışmasıyla ilgilidir
+
+> GIT şakalarıyla ilgili sorun, herkesin kendi sürümünün olmasıdır.
+
+GIT, popüler bir sürüm kontrol sistemidir. GIT’in özelliklerinden biri, kod deposunun yerel bir kopyasını saklayabilme ve kendi sürümüne sahip olma özelliğidir.
+
+Sürüm kontrol sistemlerini kullanmak, kodu düzgün bir şekilde saklayarak ve önceki sürümlerden birini geri yüklemenin kolay bir yolunu sunarak diğer ekip üyeleriyle olan işbirliğini kolaylaştırır.
+
+### Açıklama 9. Çalışma ortamı
+
+> Neden programcılar UNIX sever?
+>
+> unzip, strip, touch, finger, grep, mount, fsck, more, yes, fsck, fsck, fsck, umount, sleep
+
+UNIX, 1969'da Bell Labs'ta geliştirilen bir işletim sistemidir. unzip, strip vb. bu sistemde mevcut komutların listesidir. Örneğin, unzip komutu, dosya arşivini açmak için kullanılır.
+
+Tercih edilen işletim sistemi genellikle üzerinde çalıştığınız teknolojiye bağlıdır. Örneğin, iPhone uygulamaları oluşturmak isterseniz OS X sistemini kullanmanız gerekir; ancak Windows Phone uygulamalarını oluştururken en kolay yol Windows sistemini kullanmanızdır.
+
+Çalışma ortamı ayrıca Bütünleşik Geliştirme Ortamı (Integrated Development Environment, IDE), sürüm kontrol sistemi ve proje yönetimi araçları (örneğin Jira) içerir.
+
+### Açıklama 10. Problemler nasıl çözülür
+
+> ;
+>
+> Saklambaç şampiyonu.
+
+Noktalı virgül ";" birçok programlama dilinde bir yönerge ayracı olarak kullanılır.
+
+Günümüzde, iyi gelişmiş programlama ortamları bu ayracın eksikliğini kolayca tespit eder, ancak önceki yıllarda programcılar metin düzenleyiciler kullanırdı. Programlama maceranızı başlatıyorsanız, kullanmak istediğiniz teknoloji için uygun bir bütünleşik geliştirme ortamı seçmelisiniz (örneğin Xcode, iPhone uygulamaları oluşturmak için doğal seçenektir).
+
+İnternette, diğer programlama sorunlarını çözmenize yardımcı olacak çok sayıda kaynak vardır. En popülerlerinden biri [Stack Overflow](http://stackoverflow.com/) sitesidir. Doom ve Quake gibi oyunların yaratıcısı John Carmack, bu web sitesinin geliştiricilerin verimliliğini artırarak milyarlarca dolar tasarruf sağladığını düşünüyor[5].
+
+[5] https://twitter.com/id_aa_carmack/status/380018564792455168
