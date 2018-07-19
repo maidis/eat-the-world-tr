@@ -292,3 +292,15 @@ Google'da "özyineleme" kelimesini ararsanız Google size aynı sözcüğü ifad
 
 \* çevirmenin notu: Başlığın aslı not every boat has a lifeboat ve Edsger W. Dijkstra'nın oğlunun özyinelemeyi nasıl anladığıyla ilgili [hikayede](https://stackoverflow.com/questions/46612470/could-i-ask-for-physical-analogies-or-metaphors-for-recursion/46882956#46882956) geçiyor: "Birkaç yıl sonra, beş yaşındaki oğlum bana, özyineleme fikrinin bozulmamış zihne ne kadar sorunsuz girdiğini gösterecekti. Kasabanın ortasında benimle birlikte yürürken bana birdenbire şunu söyledi: Baba, her teknede bir cankurtaran teknesi yoktur, değil mi? Bu fikre nereden kapıldın dedim. Baba cankurtaran teknesinin daha küçük bir cankurtaran teknesinin olması mümkündür, ancak o zaman da bu cankurtaransız tekne olurdu."
 
+### Açıklama 8. Dil engelini aşmak
+S: Sigmund Freud'a göre, fear ve sex arasında ne vardır?
+
+A: Fünf.*
+
+Dile özgü harfler (örneğin ü) gibi dilsel farklılıkları göstermek için kullanılan bir şaka.
+
+Günümüzde, yazılım oluştururken dünya çapında erişim çok önemli bir konu olarak görülüyor, dolayısıyla yazılım birçok dilde kullanılabilir olmalıdır. Karakter kodlama şeması genellikle belirli bir dil veya dil grubu için tasarlanmıştır. Örneğin, Windows sisteminde kullanılan Windows-1250, Orta Avrupa dillerindeki metinleri temsil edecek şekilde tasarlanmıştır.
+
+Bu durumu çözmenin bir yolu, farklı alfabe ve 😂 benzeri emoji simgeleri içeren UTF-8 gibi daha geniş bir karakter aralığı içeren bir kodlama şeması kullanmaktır.
+
+\* çevirmenin notu: Almanca'da dört, beş, altı: vier, fünf, sechs. İngilizce'de dört, beş, altı: four, five, six.
