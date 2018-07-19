@@ -292,6 +292,15 @@ Google'da "özyineleme" kelimesini ararsanız Google size aynı sözcüğü ifad
 
 \* çevirmenin notu: Başlığın aslı not every boat has a lifeboat ve Edsger W. Dijkstra'nın oğlunun özyinelemeyi nasıl anladığıyla ilgili [hikayede](https://stackoverflow.com/questions/46612470/could-i-ask-for-physical-analogies-or-metaphors-for-recursion/46882956#46882956) geçiyor: "Birkaç yıl sonra, beş yaşındaki oğlum bana, özyineleme fikrinin bozulmamış zihne ne kadar sorunsuz girdiğini gösterecekti. Kasabanın ortasında benimle birlikte yürürken bana birdenbire şunu söyledi: Baba, her teknede bir cankurtaran teknesi yoktur, değil mi? Bu fikre nereden kapıldın dedim. Baba cankurtaran teknesinin daha küçük bir cankurtaran teknesinin olması mümkündür, ancak o zaman da bu cankurtaransız tekne olurdu."
 
+### Açıklama 6. Bir eşleşme aramak
+Soru: Bir düzenli ifade ötekine ne demiş?
+
+Cevap: .+
+
+Düzenli ifadeler, bir dizi eşleşen string'i tanımlayabilen veya bir string'in önemli kısımlarını belirtebilen kalıplardır.
+
+.+ deseni, "her şey" anlamına gelir, daha belirgin olarak ifade etmek gerekirse . herhangi bir karakter, + ise bir veya birkaç kez demektir.
+
 ### Açıklama 7. Verilerinizi güvende tutmak
 
 Two hashes walk into a bar, one was a salted.
