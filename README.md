@@ -284,18 +284,33 @@ Yedeklemeler oluşturun ve mümkün olduğunca sık bir şekilde bunlardan veri 
 
 Bilgisayarlarda ikilik kod kullanımı çok etkilidir. Durum 0 (bit kapalı) ve 1 (açık), düşük ve yüksek gerilimle gösterilebilir.
 
+### Açıklama 2. Bilginin temsili
+> Adamın biri bara girer ve 1.4 kök bira ister. Barmen, "Sizden fazladan ücret almak zorundayım, bu kök birası kayan nokta."
+> 
+> Adam "Bu durumda, en iyisi sen onu double yap" demiş.
+
+Bilgisayarlar, bellekte bir ve sıfır akışları olarak depolanan ikili kod kullanır. Yazılım oluştururken, programcının görevi bilgisayara bu akışı nasıl yorumlayacağını anlatmaktır.
+
+Örneğin, bilgisayarın belleğinde saklanan 1000001 ikili kodu bir A harfi veya 65 değerinde bir tam sayı anlamına gelebilir.
+
+Şakaya geri dönersek, kayan nokta ve double, bilgisayar belleğindeki sayıları kesirli olarak depolamanın bir yoludur. Bir double, hassasiyeti ve boyutu iki katına çıkarır. Adam 1.4 istediği için bu bir tamsayı olamaz (kesirli bir bileşen içermeyen sayı), ancak bir kayan nokta veya double olabilir.
+
+Double sayılar, kesirli sayılar için neredeyse her zaman daha iyi bir seçimdir çünkü daha hassastır (ancak daha çok bilgisayar belleği kullanır) [1].
+
+[1] xRmg ve evrae'ye yorumları için teşekkürler.
+
 ### Açıklama 5. Her teknede bir cankurtaran teknesi bulunmaz*
 
-Bunu mu demek istediniz? özyineleme
+> Bunu mu demek istediniz? özyineleme
 
 Google'da "özyineleme" kelimesini ararsanız Google size aynı sözcüğü ifade edip etmediğinizi sorup duracaktır... Bu bir hata değil, kendisini çağıran bir fonksiyonu tanımlayan özyineleme fikrini gösteren Google programcıları şakasıdır.
 
 \* çevirmenin notu: Başlığın aslı not every boat has a lifeboat ve Edsger W. Dijkstra'nın oğlunun özyinelemeyi nasıl anladığıyla ilgili [hikayede](https://stackoverflow.com/questions/46612470/could-i-ask-for-physical-analogies-or-metaphors-for-recursion/46882956#46882956) geçiyor: "Birkaç yıl sonra, beş yaşındaki oğlum bana, özyineleme fikrinin bozulmamış zihne ne kadar sorunsuz girdiğini gösterecekti. Kasabanın ortasında benimle birlikte yürürken bana birdenbire şunu söyledi: Baba, her teknede bir cankurtaran teknesi yoktur, değil mi? Bu fikre nereden kapıldın dedim. Baba cankurtaran teknesinin daha küçük bir cankurtaran teknesinin olması mümkündür, ancak o zaman da bu cankurtaransız tekne olurdu."
 
 ### Açıklama 6. Bir eşleşme aramak
-Soru: Bir düzenli ifade ötekine ne demiş?
-
-Cevap: .+
+> Soru: Bir düzenli ifade ötekine ne demiş?
+> 
+> Cevap: .+
 
 Düzenli ifadeler, bir dizi eşleşen string'i tanımlayabilen veya bir string'in önemli kısımlarını belirtebilen kalıplardır.
 
@@ -303,7 +318,7 @@ Düzenli ifadeler, bir dizi eşleşen string'i tanımlayabilen veya bir string'i
 
 ### Açıklama 7. Verilerinizi güvende tutmak
 
-Two hashes walk into a bar, one was a salted.
+> Two hashes walk into a bar, one was a salted.
 
 Temel güvenlik kurallarından biri, kullanıcı parolalarını şifrelenmemiş biçimde (kolay görülebilir ve kopyalanabilir) saklamamaktır.
 
@@ -312,9 +327,9 @@ Temel güvenlik kurallarından biri, kullanıcı parolalarını şifrelenmemiş 
 Salt, oluşturulan hash'ı koruyan, kullanıcı parolasına eklenen ek bir parametredir.
 
 ### Açıklama 8. Dil engelini aşmak
-S: Sigmund Freud'a göre, fear ve sex arasında ne vardır?
-
-A: Fünf.*
+> S: Sigmund Freud'a göre, fear ve sex arasında ne vardır?
+> 
+> A: Fünf.*
 
 Dile özgü harfler (örneğin ü) gibi dilsel farklılıkları göstermek için kullanılan bir şaka.
 
