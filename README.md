@@ -299,6 +299,14 @@ Double sayılar, kesirli sayılar için neredeyse her zaman daha iyi bir seçimd
 
 [1] xRmg ve evrae'ye yorumları için teşekkürler.
 
+### Açıklama 3. İnsanlar saymaya birden başlar
+> Bilgisayar biliminde iki zor şey vardır: önbellekten kaldırma, bir şeylerin isimlendirilmesi ve off-by-one hataları [1].
+
+Off-by-one, 0'dan başlamanız gerekirken 1'den başlamak gibi bir hata yaptığınızda meydana gelen bir programlama hatasıdır [2]. Modern programlama dillerinde bir dizinin ilk elemanı genellikle 0 indeksine atanır.
+
+[1] Lampshadish2'nun işaret ettiği gibi bu şaka, Phil Karlton'un "Bilgisayar Biliminde sadece iki zor şey vardır: önbelleği geçersiz kılma ve isimlendirme işleri" adlı ünlü alıntıdan gelmektedir.
+[2] knome, bu hatanın çoğunlukla bir programcının bir dizinin sınırlarını yanlış olarak kontrol ettiğinde (örneğin, yalnızca iki elemanlı bir listenin üçüncü maddesini almaya çalışırken) meydana geldiğini belirtti.
+
 ### Açıklama 5. Her teknede bir cankurtaran teknesi bulunmaz*
 
 > Bunu mu demek istediniz? özyineleme
