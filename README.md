@@ -307,6 +307,22 @@ Off-by-one, 0'dan başlamanız gerekirken 1'den başlamak gibi bir hata yaptığ
 [1] Lampshadish2'nun işaret ettiği gibi bu şaka, Phil Karlton'un "Bilgisayar Biliminde sadece iki zor şey vardır: önbelleği geçersiz kılma ve isimlendirme işleri" adlı ünlü alıntıdan gelmektedir.
 [2] knome, bu hatanın çoğunlukla bir programcının bir dizinin sınırlarını yanlış olarak kontrol ettiğinde (örneğin, yalnızca iki elemanlı bir listenin üçüncü maddesini almaya çalışırken) meydana geldiğini belirtti.
 
+### Açıklama 4. Sınıf ne söyleyeceğini bilmektir
+
+> Nesne yönelimli olarak varlıklı olmanın yolu nedir?
+
+> Miras
+
+**Jeff Goodell**: Basitçe, nesne yönelimli yazılımın tam olarak ne olduğunu açıklar mısınız?
+
+**Steve Jobs**: Nesneler insanlar gibidir. Onlar yaşar, bir şeylerin nasıl yapılacağı hakkındakki bilgileri nefes alır gibi içlerine çekip sahip oldukları hafızayla bir şeyleri hatırlayabilirler. Ve onlarla çok düşük bir seviyede etkileşim kurmaktan ziyade, burada yaptığımız gibi, çok yüksek bir soyutlama seviyesinde etkileşime girebiliyorsunuz.
+
+İşte bir örnek: Eğer senin çamaşır nesnen olsaydım, bana kirli kıyafetlerini verebilir ve bana "Çamaşırlarımı yıkatabilir misin lütfen" diye bir mesaj yollayabilirsin. San Francisco'daki en iyi çamaşırhanenin nerede olduğunu öğrenirim. İngilizce konuşurum ve cebimde dolar olar. Bu yüzden dışarı çıkıp bir taksiye binip şoföre San Francisco'daki bu yere gitmesini söylerim. Kıyafetlerini yıkatırım, tekrar taksiye atlarım ve buraya geri dönerim. Sana da temiz kıyafetlerini verip "işte temiz kıyafetlerin" derim.
+
+Bunu nasıl yaptığımı bilmezsin. Çamaşırhanenin yeri hakkında hiçbir bilgin yoktur. Belki de Fransızca konuşabiliyorsundur sadece ve hatta bir taksi bile durduramazsın. Durdursan bile ödeme yapamazsın, cebinde hiç dolar yoktur. Yine de ben bunların hepsini nasıl yapacağımı bilirim. Ve bunların hiçbirini sen bilmek zorunda değilsin. Bütün bu karmaşıklık içimde gizliydi ve çok yüksek bir soyutlama seviyesinde etkileşim kurabiliyorduk. Nesneler budur. Karmaşıklığı kapsüllerler ve bu karmaşıklığa yönelik arayüzler yüksek seviyelidir [1].
+
+[1] https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/
+
 ### Açıklama 5. Her teknede bir cankurtaran teknesi bulunmaz*
 
 > Bunu mu demek istediniz? özyineleme
