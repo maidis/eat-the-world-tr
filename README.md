@@ -330,17 +330,18 @@ Bilgisayarlar, bellekte bir ve sıfır akışları olarak depolanan ikili kod ku
 
 Şakaya geri dönersek, kayan nokta ve double, bilgisayar belleğindeki sayıları kesirli olarak depolamanın bir yoludur. Bir double, hassasiyeti ve boyutu iki katına çıkarır. Adam 1.4 istediği için bu bir tamsayı olamaz (kesirli bir bileşen içermeyen sayı), ancak bir kayan nokta veya double olabilir.
 
-Double sayılar, kesirli sayılar için neredeyse her zaman daha iyi bir seçimdir çünkü daha hassastır (ancak daha çok bilgisayar belleği kullanır) [1].
+Double sayılar, kesirli sayılar için neredeyse her zaman daha iyi bir seçimdir çünkü daha hassastır (ancak daha çok bilgisayar belleği kullanır) [8].
 
-[1] xRmg ve evrae'ye yorumları için teşekkürler.
+[8] xRmg ve evrae'ye yorumları için teşekkürler.
 
 ### Açıklama 3. İnsanlar saymaya birden başlar
-> Bilgisayar biliminde iki zor şey vardır: önbellekten kaldırma, bir şeylerin isimlendirilmesi ve off-by-one hataları [1].
+> Bilgisayar biliminde iki zor şey vardır: önbellekten kaldırma, bir şeylerin isimlendirilmesi ve off-by-one hataları [9].
 
-Off-by-one, 0'dan başlamanız gerekirken 1'den başlamak gibi bir hata yaptığınızda meydana gelen bir programlama hatasıdır [2]. Modern programlama dillerinde bir dizinin ilk elemanı genellikle 0 indeksine atanır.
+Off-by-one, 0'dan başlamanız gerekirken 1'den başlamak gibi bir hata yaptığınızda meydana gelen bir programlama hatasıdır [10]. Modern programlama dillerinde bir dizinin ilk elemanı genellikle 0 indeksine atanır.
 
-[1] Lampshadish2'nun işaret ettiği gibi bu şaka, Phil Karlton'un "Bilgisayar Biliminde sadece iki zor şey vardır: önbelleği geçersiz kılma ve isimlendirme işleri" adlı ünlü alıntıdan gelmektedir.
-[2] knome, bu hatanın çoğunlukla bir programcının bir dizinin sınırlarını yanlış olarak kontrol ettiğinde (örneğin, yalnızca iki elemanlı bir listenin üçüncü maddesini almaya çalışırken) meydana geldiğini belirtti.
+[9] Lampshadish2'nun işaret ettiği gibi bu şaka, Phil Karlton'un "Bilgisayar Biliminde sadece iki zor şey vardır: önbelleği geçersiz kılma ve isimlendirme işleri" adlı ünlü alıntıdan gelmektedir.
+
+[10] knome, bu hatanın çoğunlukla bir programcının bir dizinin sınırlarını yanlış olarak kontrol ettiğinde (örneğin, yalnızca iki elemanlı bir listenin üçüncü maddesini almaya çalışırken) meydana geldiğini belirtti.
 
 ### Açıklama 4. Sınıf ne söyleyeceğini bilmektir
 
@@ -354,9 +355,9 @@ Off-by-one, 0'dan başlamanız gerekirken 1'den başlamak gibi bir hata yaptığ
 
 İşte bir örnek: Eğer senin çamaşır nesnen olsaydım, bana kirli kıyafetlerini verebilir ve bana "Çamaşırlarımı yıkatabilir misin lütfen" diye bir mesaj yollayabilirsin. San Francisco'daki en iyi çamaşırhanenin nerede olduğunu öğrenirim. İngilizce konuşurum ve cebimde dolar olar. Bu yüzden dışarı çıkıp bir taksiye binip şoföre San Francisco'daki bu yere gitmesini söylerim. Kıyafetlerini yıkatırım, tekrar taksiye atlarım ve buraya geri dönerim. Sana da temiz kıyafetlerini verip "işte temiz kıyafetlerin" derim.
 
-Bunu nasıl yaptığımı bilmezsin. Çamaşırhanenin yeri hakkında hiçbir bilgin yoktur. Belki de Fransızca konuşabiliyorsundur sadece ve hatta bir taksi bile durduramazsın. Durdursan bile ödeme yapamazsın, cebinde hiç dolar yoktur. Yine de ben bunların hepsini nasıl yapacağımı bilirim. Ve bunların hiçbirini sen bilmek zorunda değilsin. Bütün bu karmaşıklık içimde gizliydi ve çok yüksek bir soyutlama seviyesinde etkileşim kurabiliyorduk. Nesneler budur. Karmaşıklığı kapsüllerler ve bu karmaşıklığa yönelik arayüzler yüksek seviyelidir [1].
+Bunu nasıl yaptığımı bilmezsin. Çamaşırhanenin yeri hakkında hiçbir bilgin yoktur. Belki de Fransızca konuşabiliyorsundur sadece ve hatta bir taksi bile durduramazsın. Durdursan bile ödeme yapamazsın, cebinde hiç dolar yoktur. Yine de ben bunların hepsini nasıl yapacağımı bilirim. Ve bunların hiçbirini sen bilmek zorunda değilsin. Bütün bu karmaşıklık içimde gizliydi ve çok yüksek bir soyutlama seviyesinde etkileşim kurabiliyorduk. Nesneler budur. Karmaşıklığı kapsüllerler ve bu karmaşıklığa yönelik arayüzler yüksek seviyelidir [11].
 
-[1] https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/
+[11] https://www.rollingstone.com/culture/culture-news/steve-jobs-in-1994-the-rolling-stone-interview-231132/
 
 ### Açıklama 5. Her teknede bir cankurtaran teknesi bulunmaz*
 
