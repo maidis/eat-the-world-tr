@@ -3,7 +3,7 @@
 
 *(programcılar hakkındaki şakaları açıklayarak)*
 
-[Okumaya başla](#i--indekiler)
+[Okumaya başla](#%C4%B0%C3%A7indekiler)
 
 ![Dino](https://github.com/maidis/eat-the-world-tr/raw/master/dino.jpg "Dino")
 
