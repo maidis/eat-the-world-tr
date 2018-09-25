@@ -3,7 +3,7 @@
 
 *(programcılar hakkındaki şakaları açıklayarak)*
 
-Okumaya başla
+[Okumaya başla](#i--indekiler)
 
 ![Dino](https://github.com/maidis/eat-the-world-tr/raw/master/dino.jpg "Dino")
 
@@ -15,7 +15,42 @@ Rusça çeviri: [devSchacht/Eat-the-World](https://github.com/devSchacht/Eat-the
 
 Türkçe çeviri: [maidis/eat-the-world-tr](https://github.com/maidis/eat-the-world-tr)
 
-İçindekiler
+## İçindekiler
+- [Dünyayı Yemek](#d-nyay--yemek)
+  * [İçindekiler](#i--indekiler)
+  * [BÖLÜM I. Tüm bu nüktelerdeki rollerin açıklaması](#b-l-m-i-t-m-bu-n-ktelerdeki-rollerin-a--klamas-)
+    + [Açıklama 1. Programcılar gerçekten ne yapar](#a--klama-1-programc-lar-ger-ekten-ne-yapar)
+    + [Açıklama 2. Doğru ürünü nakletmek](#a--klama-2-do-ru--r-n--nakletmek)
+    + [Açıklama 3. Beni düşündürtmeyin](#a--klama-3-beni-d---nd-rtmeyin)
+    + [Açıklama 4. Daima çevrimiçi](#a--klama-4-daima--evrimi-i)
+    + [Açıklama 5. Organize edilmiş bir veri koleksiyonu](#a--klama-5-organize-edilmi--bir-veri-koleksiyonu)
+    + [Açıklama 6. Ürününüzü test etmekten hoşlanmıyorsanız, müşterileriniz de test etmeyi sevmeyeceklerdir](#a--klama-6--r-n-n-z--test-etmekten-ho-lanm-yorsan-z--m--terileriniz-de-test-etmeyi-sevmeyeceklerdir)
+    + [Açıklama 7. Sözcükleri akıllıca seçmek iyi bir uygulamadır](#a--klama-7-s-zc-kleri-ak-ll-ca-se-mek-iyi-bir-uygulamad-r)
+    + [Açıklama 8. Ödemeyi kim yapıyor](#a--klama-8--demeyi-kim-yap-yor)
+  * [BÖLÜM II. Programcının çalışmalarıyla ilgili nüktelerin açıklaması](#b-l-m-ii-programc-n-n--al--malar-yla-ilgili-n-ktelerin-a--klamas-)
+    + [Açıklama 1. İlk sözcükleriniz](#a--klama-1-i-lk-s-zc-kleriniz)
+    + [Açıklama 2. Hangi programlama diline ihtiyacınız var?](#a--klama-2-hangi-programlama-diline-ihtiyac-n-z-var-)
+    + [Açıklama 3. Programlar okuyacak insanlar için yazılmalıdır](#a--klama-3-programlar-okuyacak-insanlar-i-in-yaz-lmal-d-r)
+    + [Açıklama 4. Sayıları sıralamadan düşünen makinelere](#a--klama-4-say-lar--s-ralamadan-d---nen-makinelere)
+    + [Açıklama 5. Mantık sizi A'dan B'ye götürür](#a--klama-5-mant-k-sizi-a-dan-b-ye-g-t-r-r)
+    + [Açıklama 6. Biri sizinle aynı sorunu yaşadı](#a--klama-6-biri-sizinle-ayn--sorunu-ya-ad-)
+    + [Açıklama 7. Sinemaya yalnız gidecekseniz iki bilet satın almazsınız](#a--klama-7-sinemaya-yaln-z-gidecekseniz-iki-bilet-sat-n-almazs-n-z)
+    + [Açıklama 8. Neredeyse her zaman ekip çalışmasıyla ilgilidir](#a--klama-8-neredeyse-her-zaman-ekip--al--mas-yla-ilgilidir)
+    + [Açıklama 9. Çalışma ortamı](#a--klama-9--al--ma-ortam-)
+    + [Açıklama 10. Problemler nasıl çözülür](#a--klama-10-problemler-nas-l---z-l-r)
+    + [Açıklama 11. Yapılmış olması mükemmel olmasından iyidir](#a--klama-11-yap-lm---olmas--m-kemmel-olmas-ndan-iyidir)
+    + [Açıklama 12. Kitlelerin Bilgeliği*](#a--klama-12-kitlelerin-bilgeli-i-)
+    + [Açıklama 13. Kaybettiğim her şey içinde aklımı özlüyorum en çok](#a--klama-13-kaybetti-im-her--ey-i-inde-akl-m---zl-yorum-en--ok)
+  * [BÖLÜM III. Bilgisayarların çalışmasıyla ilgili nüktelerin açıklaması](#b-l-m-iii-bilgisayarlar-n--al--mas-yla-ilgili-n-ktelerin-a--klamas-)
+    + [Açıklama 1. Bilgisayarlarla gerçekte nasıl konuşuruz](#a--klama-1-bilgisayarlarla-ger-ekte-nas-l-konu-uruz)
+    + [Açıklama 2. Bilginin temsili](#a--klama-2-bilginin-temsili)
+    + [Açıklama 3. İnsanlar saymaya birden başlar](#a--klama-3-i-nsanlar-saymaya-birden-ba-lar)
+    + [Açıklama 4. Sınıf ne söyleyeceğini bilmektir](#a--klama-4-s-n-f-ne-s-yleyece-ini-bilmektir)
+    + [Açıklama 5. Her teknede bir cankurtaran teknesi bulunmaz*](#a--klama-5-her-teknede-bir-cankurtaran-teknesi-bulunmaz-)
+    + [Açıklama 6. Bir eşleşme aramak](#a--klama-6-bir-e-le-me-aramak)
+    + [Açıklama 7. Verilerinizi güvende tutmak](#a--klama-7-verilerinizi-g-vende-tutmak)
+    + [Açıklama 8. Dil engelini aşmak](#a--klama-8-dil-engelini-a-mak)
+
 
 ## BÖLÜM I. Tüm bu nüktelerdeki rollerin açıklaması
 > Bilgiyi bir çeşit semantik ağaç gibi görmek önemlidir — yapraklara/ayrıntılara girmeden önce temelleri, yani gövde ve büyük dalları anladığınızdan emin olun yoksa onların tutunabileceği hiçbir şey olmayacaktır.
